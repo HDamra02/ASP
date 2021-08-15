@@ -1,0 +1,1 @@
+H:\bitnami\wampstack-7.4.6-1\mysql\bin\mysql --defaults-extra-file=H:\excelleo\private\conf\db_root.ini
